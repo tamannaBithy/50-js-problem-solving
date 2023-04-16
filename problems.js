@@ -1,4 +1,4 @@
-// #1. Coding challenge #1: Print numbers from 1 to 10
+// ✌ #1. Coding challenge #1: Print numbers from 1 to 10
 // #2. Coding challenge #2: Print the odd numbers less than 100
 // #3: Print the multiplication table with 7
 // #4: Print all the multiplication tables with numbers from 1 to 10
@@ -30,7 +30,7 @@
 // #22: Reverse an array
 // #23: Reverse a string
 
-// Coding challenge #24: Create a function that will merge two arrays and return the result as a new array
+// ✌ Coding challenge #24: Create a function that will merge two arrays and return the result as a new array
 
 // Coding challenge #25: Create a function that will receive two arrays of numbers as arguments and return an array composed of all the numbers that are either in the first array or second array but not in both
 

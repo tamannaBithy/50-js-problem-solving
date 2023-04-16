@@ -1,1 +1,1 @@
-# 50-js-problem-solving
+# 50-js-problem-solving using typescript
