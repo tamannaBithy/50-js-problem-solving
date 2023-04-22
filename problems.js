@@ -9,8 +9,8 @@
 // ✌ #9: Create a function that will convert from Fahrenheit to Celsius
 // ✌ #10: Calculate the sum of numbers in an array of numbers
 // ✌ #11: Calculate the average of the numbers in an array of numbers
-// #12: Create a function that receives an array of numbers and returns an array containing only the positive numbers
-// #13: Find the maximum number in an array of numbers
+// ✌ #12: Create a function that receives an array of numbers and returns an array containing only the positive numbers
+// ✌ #13: Find the maximum number in an array of numbers
 // Skip - #14: Print the first 10 Fibonacci numbers without recursion
 
 // skip - #15: Create a function that will find the nth Fibonacci number using recursion
