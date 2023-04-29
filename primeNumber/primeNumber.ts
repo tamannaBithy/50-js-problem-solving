@@ -14,4 +14,4 @@ function primeNumber(n: number) {
   return true;
 }
 
-console.log(primeNumber(41));
+console.log(primeNumber(71));
