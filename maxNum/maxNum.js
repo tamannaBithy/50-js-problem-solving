@@ -19,4 +19,4 @@ function newArray(arr) {
     const maxArray = arr.reduce((a, b) => a > b ? a : b, 0);
     console.log(maxArray);
 }
-newArray([1, 2, 67, -90, 4567]);
+newArray([-89, 100, 11, 67, 4567, -300]);
