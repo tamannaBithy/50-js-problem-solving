@@ -19,30 +19,30 @@
 
 // ✌ #17: Calculate the sum of digits of a positive integer number
 
-// Coding challenge #18: Print the first 100 prime numbers
+// ✌ #18: Print the first 100 prime numbers
 
-// Coding challenge #19: Create a function that will return in an array the first "nPrimes" prime numbers greater than a particular number "startAt"
+// ✌ #19: Create a function that will return in an array the first "nPrimes" prime numbers greater than a particular number "startAt"
 
-// Coding challenge #20: Rotate an array to the left 1 position
+// ✌ #20: Rotate an array to the left 1 position
 
-// Coding challenge #21: Rotate an array to the right 1 position
+// ✌ #21: Rotate an array to the right 1 position
 
-// #22: Reverse an array
-// #23: Reverse a string
+// ✌ #22: Reverse an array
+// ✌ #23: Reverse a string
 
-// ✌ Coding challenge #24: Create a function that will merge two arrays and return the result as a new array
+// ✌ #24: Create a function that will merge two arrays and return the result as a new array
 
-// Coding challenge #25: Create a function that will receive two arrays of numbers as arguments and return an array composed of all the numbers that are either in the first array or second array but not in both
+// ✌ #25: Create a function that will receive two arrays of numbers as arguments and return an array composed of all the numbers that are either in the first array or second array but not in both
 
-// Coding challenge #26: Create a function that will receive two arrays and will return an array with elements that are in the first array but not in the second
+// #26: Create a function that will receive two arrays and will return an array with elements that are in the first array but not in the second
 
-// Coding challenge #27: Create a function that will receive an array of numbers as argument and will return a new array with distinct elements
+// #27: Create a function that will receive an array of numbers as argument and will return a new array with distinct elements
 
-// Coding challenge #28: Calculate the sum of first 100 prime numbers
+//  #28: Calculate the sum of first 100 prime numbers
 
 // Returns true if number n is prime
 
-// Coding challenge #29: Print the distance between the first 100 prime numbers
+// #29: Print the distance between the first 100 prime numbers
 printDistances(100);
 
 // Print distances between the first n prime numbers
