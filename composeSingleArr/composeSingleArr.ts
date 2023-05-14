@@ -21,3 +21,17 @@ function composeNewArr(arr1: number[], arr2: number[]) {
 }
 
 composeNewArr([1, 2, 4, 78, 322], [564, 90, 2, 78, 5]);
+
+// #26: Create a function that will receive two arrays and will return an array with elements that are in the first array but not in the second
+
+function composeSingleArr(arr1: number[], arr2: number[]) {
+  let newArr = [];
+
+  for (let el of arr1) {
+    if (!arr2.includes(el)) newArr.push(el);
+  }
+
+  console.log(newArr);
+}
+
+composeSingleArr([1, 2, 4, 78, 322], [564, 90, 2, 78, 5]);
