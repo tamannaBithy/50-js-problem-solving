@@ -34,11 +34,11 @@
 
 // ✌ #25: Create a function that will receive two arrays of numbers as arguments and return an array composed of all the numbers that are either in the first array or second array but not in both
 
-// #26: Create a function that will receive two arrays and will return an array with elements that are in the first array but not in the second
+// ✌ #26: Create a function that will receive two arrays and will return an array with elements that are in the first array but not in the second
 
-// #27: Create a function that will receive an array of numbers as argument and will return a new array with distinct elements
+// ✌ #27: Create a function that will receive an array of numbers as argument and will return a new array with distinct elements
 
-//  #28: Calculate the sum of first 100 prime numbers
+// ✌ #28: Calculate the sum of first 100 prime numbers
 
 // Returns true if number n is prime
 
