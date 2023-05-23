@@ -40,7 +40,7 @@
 
 // ✌ #28: Calculate the sum of first 100 prime numbers
 
-// Returns true if number n is prime
+// Returns true if number n is prime [same as 16]
 
 // #29: Print the distance between the first 100 prime numbers
 printDistances(100);
