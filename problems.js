@@ -271,9 +271,9 @@ function mod(n, p) {
   return n % p;
 }
 
-// Coding challenge #40. Implement the bubble sort algorithm for an array of numbers
+//  #40. Implement the bubble sort algorithm for an array of numbers
 
-// Coding challenge #41. Create a function to calculate the distance between two points defined by their x, y coordinates
+//  #41. Create a function to calculate the distance between two points defined by their x, y coordinates
 
 // Coding challenge #42. Create a function that will return a Boolean value indicating if two circles defined by center coordinates and radius are intersecting
 
