@@ -42,7 +42,7 @@
 
 // Returns true if number n is prime [same as 16]
 
-// #29: Print the distance between the first 100 prime numbers
+// ✌ #29: Print the distance between the first 100 prime numbers
 printDistances(100);
 
 // Print distances between the first n prime numbers
@@ -80,7 +80,7 @@ function isPrime(n) {
   return true;
 }
 
-// Coding challenge #30-a: Create a function that will add two positive numbers of indefinite size. The numbers are received as strings and the result should be also provided as string.
+//  #30: Create a function that will add two positive numbers of indefinite size. The numbers are received as strings and the result should be also provided as string.
 // Solution 1
 var n1 = "2909034221912398942349";
 var n2 = "1290923909029309499";
@@ -220,21 +220,21 @@ console.log(countWords("     JavaScript"));
 console.log(countWords("    JavaScript is cool      "));
 console.log(countWords("I like to learn JavaScript with Lead Educare"));
 
-// Coding challenge #32. Create a function that will capitalize the first letter of each word in a text
+// ✌ #32. Create a function that will capitalize the first letter of each word in a text
 
-// Coding challenge #33. Calculate the sum of numbers received in a comma delimited string
+// #33. Calculate the sum of numbers received in a comma delimited string
 
-// Coding challenge #34. Create a function that will return an array with words inside a text
+// #34. Create a function that will return an array with words inside a text
 
-// Coding challenge #35. Create a function to convert a CSV text to a “bi-dimensional” array
+// #35. Create a function to convert a CSV text to a “bi-dimensional” array
 
-// Coding challenge #36. Create a function that converts a string to an array of characters
+// #36. Create a function that converts a string to an array of characters
 
-// Coding challenge #37. Create a function that will convert a string in an array containing the ASCII codes of each character
+// #37. Create a function that will convert a string in an array containing the ASCII codes of each character
 
-// Coding challenge #38. Create a function that will convert an array containing ASCII codes in a string
+// #38. Create a function that will convert an array containing ASCII codes in a string
 
-// Coding challenge #39. Implement the Caesar cypher
+// #39. Implement the Caesar cypher
 
 // Decrypt a message by using the same encrypt function
 // ... but using the inverse of the key (e.g. rotate in the other direction)
