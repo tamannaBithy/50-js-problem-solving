@@ -99,3 +99,7 @@ function vowelsAndConsonants(s) {
 }
 
 vowelsAndConsonants("javascriptloops");
+
+
+
+
