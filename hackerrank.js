@@ -145,3 +145,16 @@ const perimeter = 48;
 const result = sides`The area is ${area} and the perimeter is ${perimeter}.`;
 
 console.log(result);
+
+
+// day - 6 - js dates
+
+function getDayName(dateString) {
+  const dayNames = ["Sunday", "Monday", "Tuesday" , "wednesday", "thursday", "friday"];
+  const inputDay = new Date(dateString);
+  const day1 = inputDay.getDay();
+  
+  console.log(dayNames[day1]);
+}
+
+getDayName("10/11/2009")
