@@ -125,9 +125,6 @@ getCount([
   { x: 7, y: 7 },
 ]);
 
-
-
-
 // day- 5- template literals
 
 function sides(strings, A, P) {
@@ -146,15 +143,48 @@ const result = sides`The area is ${area} and the perimeter is ${perimeter}.`;
 
 console.log(result);
 
-
 // day - 6 - js dates
 
 function getDayName(dateString) {
-  const dayNames = ["Sunday", "Monday", "Tuesday" , "wednesday", "thursday", "friday"];
+  const dayNames = [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+  ];
   const inputDay = new Date(dateString);
   const day1 = inputDay.getDay();
-  
+
   console.log(dayNames[day1]);
 }
 
-getDayName("10/11/2009")
+getDayName("10/11/2009");
+
+// day- 7 - Regular Expression to evaluate a string
+
+const name = "bfgtyB";
+const newString = name.toLowerCase();
+
+const first = newString[0];
+const last = newString[newString.length - 1];
+
+if (first === last) {
+  console.log(true);
+} else {
+  console.log(false);
+}
+
+const des = "Er .Abc";
+const list = ["Mr", "Mrs", "Ms", "Dr", "Er"];
+
+const splittedString = des.split(".");
+
+if (splittedString.length > 0) {
+  if (list.includes(splittedString[0])) {
+    console.log(true);
+  } else {
+    console.log(false);
+  }
+}
